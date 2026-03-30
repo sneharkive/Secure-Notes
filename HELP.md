@@ -45,3 +45,24 @@
 
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+
+
+#### Principal 
+- Principal represents the currently logged-in user. Your user details (like your username or email) become your Principal. Ex: Principal: sneha_roy
+
+#### Authentication Object
+- Authentication Object is a more comprehensive representation of the user's authentication information. Ex:
+- Principal: sneha_roy
+- Authorities: ROLE_ADMIN
+
+this whole is an example of Authentication Object
+
+
+
